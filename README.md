@@ -1,0 +1,2 @@
+# news
+MVVM test architecture
